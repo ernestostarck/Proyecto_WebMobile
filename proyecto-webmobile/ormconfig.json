@@ -1,0 +1,15 @@
+{
+    "type": "mssql",
+    "host": "localhost",
+    "port": 8080,
+    "username": "tu_usuario",
+    "password": "tu_contraseña",
+    "database": "AgenteClienteDB",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["src/entity/**/*.ts"],
+    "options": {
+      "encrypt": false
+    }
+  }
+  
