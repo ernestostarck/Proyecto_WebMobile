@@ -58,7 +58,7 @@ El frontend está desarrollado con **React** (en TypeScript) y proporciona una i
 
 1. Clona el repositorio.
    ```bash
-   git clone https://github.com/ernestostarck/proyecto-agente-cliente.git
+   git clone [https://github.com/ernestostarck/proyecto-agente-cliente.git](https://github.com/ernestostarck/Proyecto_WebMobile.git]
    ```
 
 2. Instala las dependencias del backend y frontend.
@@ -90,7 +90,3 @@ El frontend está desarrollado con **React** (en TypeScript) y proporciona una i
 3. Haz *commit* a tus cambios (`git commit -m 'Añadir nueva funcionalidad'`).
 4. Sube los cambios a tu rama (`git push origin feature/nueva-funcionalidad`).
 5. Crea una *pull request*.
-
----
-
-Este archivo `.md` ofrece una vista general clara y concisa del proyecto, sus características y las tecnologías utilizadas, junto con instrucciones de instalación y contribución. Puedes adaptar los enlaces y detalles específicos según las necesidades de tu proyecto.
